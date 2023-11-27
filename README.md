@@ -1,5 +1,3 @@
-# Kalbe-Nutritionals-Data-Scientist-X-Rakamin
-
 # Exploratory Data Analysis
 
 ## Total Quantity from Month to Month
